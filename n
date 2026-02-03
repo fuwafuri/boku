@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html lang="ja">
+      <title>ん</title>
+<link rel="apple-touch-icon" sizes="190x190" href="./n.png">
+</html>
